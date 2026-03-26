@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhishek Kumar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Abhishek Kumar
 
 ### 💻 Learning: C | Python
 
@@ -25,24 +25,6 @@ Learning programming from the ground up, with a focus on C, Python, and real pro
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />
-</p>
-
----
-
-### 🚀 Projects
-
-- 🔢 **Calculator in C**  
-  Simple CLI calculator using C (addition, subtraction, etc.)
-
-- 🐍 **Python Number Guess Game**  
-  User guesses number with hints (basic logic building)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-escobar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
