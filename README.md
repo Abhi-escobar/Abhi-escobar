@@ -1,8 +1,12 @@
+<div align="center">
+
+<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Abhishek%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Builder%20%7C%20Curious%20Mind&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
+<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=C+%26+Python+Learner+%F0%9F%90%8D;Building+to+Learn%2C+Learning+to+Build+%F0%9F%94%A5;Open+Source+Enthusiast+%F0%9F%8C%9F;Arka+Jain+University+%F0%9F%8E%93" alt="Typing SVG" />
-</p>
+
+</div>
 
 ---
 
@@ -18,77 +22,143 @@ abhishek = {
     "learning_style": "Build small, learn fast 🚀",
     "fun_fact": "Tutorials bore me. Projects teach me. 😄"
 }
-🌐 Connect With Me
-�
+` ` `
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
 [
 
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-�
+](https://discord.gg/Abhishek7739)
+[
 
-](https://discord.gg/Abhishek7739) [
-�
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
-](https://instagram.com/abhishek__09) [
-�
+](https://instagram.com/__abhishek__09__)
+[
 
-](https://pinterest.com/Abhishek77391) [
-�
+![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
+
+](https://pinterest.com/Abhishek77391)
+[
+
+![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:ak2525611@gmail.com)
-�
 
-💻 Tech Stack
-�
+</div>
 
-�
+---
 
-�
+## 💻 Tech Stack
 
-�
-
-�
-
-�
-
-�
-
-�
-
-�
-
-�
-
-📊 GitHub Stats
-�
-￼ ￼ 
+<div align="center">
 
 
-�
-￼ 
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-🏆 GitHub Trophies
-�
-￼ 
 
 
-💡 Random Dev Quote
-�
-￼ 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-�
-￼ 
 
 
-�
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+
+
+
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi-escobar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-escobar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Abhi-escobar&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+
+
+![](https://github-profile-trophy.vercel.app/?username=Abhi-escobar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+
+
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
 [
 
+![](https://visitcount.itsvg.in/api?id=Abhi-escobar&label=Profile%20Views&icon=5&color=6&pretty=true)
 
-�
-Load image
+](https://visitcount.itsvg.in)
+
+[
+
+![Ko-Fi](https://img.shields.io/badge/Support%20Me-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+
 ](https://ko-fi.com/Abhi_escobar)
-�
 
-�
-￼ ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
