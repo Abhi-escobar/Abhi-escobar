@@ -1,57 +1,54 @@
-# Hi, I'm Abhishek Kumar 👋
+# 👋 Hi, I'm Abhishek Kumar  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&width=435&lines=Learning+C+%26+Python;Building+logic+step+by+step;Future+Developer+🚀" />
-
-> 🚀 Learning daily. Building consistently.
-
-Learning programming from the ground up, with a focus on C, Python, and real problem-solving.
+💻 Aspiring Developer | Learning C & Python | Building by Doing  
 
 ---
 
-### 🌍 About Me
-
+## 🌍 About Me  
 - 📍 Based in India  
-- 📚 Learning **C & Python** step by step  
+- 📚 Learning C & Python step by step  
 - 🧠 Improving logic through daily practice  
 - 🔍 Curious about how things work behind the code  
-- 🤝 Looking for simple projects to grow and learn  
+- 🤝 Exploring simple projects to grow and learn  
 - 🚀 Believe in learning by doing, not just watching  
 
-> 🎯 Goal: Become a skilled developer and crack a good internship.
+---
+
+## 🛠️ Tech Stack  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />  
+</p>  
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />
-</p>
-
----
-
-### 🔗 Socials
-
-<p align="left">
-  <a href="https://github.com/Abhi-escobar">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://instagram.com/__abhishek__09__">
-    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Abhi_Escobar">
-    <img src="https://img.shields.io/badge/Telegram-Message-%230088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
+## 📂 Projects  
+- 🔢 **C Calculator** – Basic arithmetic operations in C  
+- 🐍 **Python To-Do CLI** – Simple command-line task manager  
+- 🎵 **Music Playlist Script** – Automates playlist creation from local files  
 
 ---
 
-### 📬 Contact
+## 🔗 Socials  
+<p align="left">  
+  <a href="https://github.com/Abhi-escobar">  
+    <img src="https://skillicons.dev/icons?i=github" />  
+  </a>  
+  <a href="https://instagram.com/__abhishek__09__">  
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
+  </a>  
+  <a href="https://t.me/Abhi_Escobar">  
+    <img src="https://img.shields.io/badge/Telegram-Message-%230088cc?style=for-the-badge&logo=telegram&logoColor=white"/>  
+  </a>  
+</p>  
 
-<p align="left">
-  <a href="mailto:workplace.abhishekk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/Abhishek7739">
-    <img src="https://img.shields.io/badge/Discord-Connect-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+---
+
+## 📬 Contact  
+<p align="left">  
+  <a href="mailto:workplace.abhishekk@gmail.com">  
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+  </a>  
+  <a href="https://discordapp.com/users/Abhishek7739">  
+    <img src="https://img.shields.io/badge/Discord-Connect-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>  
+  </a>  
 </p>
