@@ -41,7 +41,13 @@ Learning programming from the ground up, with a focus on C, Python, and real pro
 
 ---
 
-### 📬 Contact Me
+### 📬 Contact
 
-- 📧 Email: **ak2525611@gmail.com**  
-- 💬 Discord: **Abhishek7739**
+<p align="left">
+  <a href="mailto:workplace.abhishekk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/Abhishek7739">
+    <img src="https://img.shields.io/badge/Discord-Connect-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
