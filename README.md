@@ -28,24 +28,19 @@ abhishek = {
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
 [
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-](https://discord.gg/Abhishek7739)
-[
+](https://discord.gg/Abhishek7739) [
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
-](https://instagram.com/__abhishek__09__)
-[
+](https://instagram.com/__abhishek__09__) [
 
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
 
-](https://pinterest.com/Abhishek77391)
-[
+](https://pinterest.com/Abhishek77391) [
 
 ![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
