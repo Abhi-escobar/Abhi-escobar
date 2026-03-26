@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Abhishek Kumar
+# Hi, I'm Abhishek Kumar 👋
 
-### 💻 Learning: C | Python
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&width=435&lines=Learning+C+%26+Python;Building+logic+step+by+step;Future+Developer+🚀" />
 
 > 🚀 Learning daily. Building consistently.
 
