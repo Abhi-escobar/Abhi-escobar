@@ -2,6 +2,8 @@
 
 ### 💻 Learning: C | Python
 
+> 🚀 Learning daily. Building consistently.
+
 Learning programming from the ground up, with a focus on C, Python, and real problem-solving.
 
 ---
@@ -15,12 +17,32 @@ Learning programming from the ground up, with a focus on C, Python, and real pro
 - 🤝 Looking for simple projects to grow and learn  
 - 🚀 Believe in learning by doing, not just watching  
 
+> 🎯 Goal: Become a skilled developer and crack a good internship.
+
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />
+</p>
+
+---
+
+### 🚀 Projects
+
+- 🔢 **Calculator in C**  
+  Simple CLI calculator using C (addition, subtraction, etc.)
+
+- 🐍 **Python Number Guess Game**  
+  User guesses number with hints (basic logic building)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-escobar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
