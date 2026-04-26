@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhishek Kumar  
+# 👋 Hi, I'm Abhishek  
 
 💻 Aspiring Developer | Learning C & Python | Building by Doing  
 
