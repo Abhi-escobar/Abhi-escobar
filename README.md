@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Abhishek  
 
-💻 Aspiring Developer | Learning C & Python | Building by Doing  
+💻 CS Student | Learning C & Python | Building by Doing  
 
 ---
 
 ## 🌍 About Me  
-- 📍 Based in India  
+- 📍 Based in Jamshedpur, Jharkhand, India  
 - 📚 Learning C & Python step by step  
 - 🧠 Improving logic through daily practice  
 - 🔍 Curious about how things work behind the code  
