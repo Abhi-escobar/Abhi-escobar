@@ -1,15 +1,54 @@
-# 💫 About Me:
-- 📍 Based in Jamshedpur, Jharkhand, India<br>- 📚 Learning Java & Python step by step<br>- 🧠 Improving problem-solving through DSA<br>- 🚀 Learning by building real projects<br>- 🎯 Goal: Become a Software Engineer
+# 👋 Hi, I'm Abhishek  
 
+💻 CS Student | Learning C & Python | Building by Doing  
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/abhishek9835.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/Abhishek7739) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__abhishek__09__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar9835) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Abhishek77391) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/abhixescobar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AK2525611@GMAIL.COM) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat-square&logo=Adobe%20Fonts&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abhi-escobar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Abhi-escobar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhi-escobar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌍 About Me  
+- 📍 Based in Jamshedpur, Jharkhand, India  
+- 📚 Learning C & Python step by step  
+- 🧠 Improving logic through daily practice  
+- 🔍 Curious about how things work behind the code  
+- 🤝 Exploring simple projects to grow and learn  
+- 🚀 Believe in learning by doing, not just watching  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠️ Tech Stack  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />  
+</p>  
+
+---
+
+## 📂 Projects  
+- 🔢 **C Calculator** – Basic arithmetic operations in C  
+- 🐍 **Python To-Do CLI** – Simple command-line task manager  
+- 🎵 **Music Playlist Script** – Automates playlist creation from local files  
+
+---
+
+## 🔗 Socials  
+<p align="left">  
+  <a href="https://github.com/Abhi-escobar">  
+    <img src="https://skillicons.dev/icons?i=github" />  
+  </a>  
+  <a href="https://instagram.com/__abhishek__09__">  
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
+  </a>  
+  <a href="https://t.me/Abhi_Escobar">  
+    <img src="https://img.shields.io/badge/Telegram-Message-%230088cc?style=for-the-badge&logo=telegram&logoColor=white"/>  
+  </a>  
+</p>  
+
+---
+
+## 📬 Contact  
+<p align="left">  
+  <a href="mailto:workplace.abhishekk@gmail.com">  
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+  </a>  
+  <a href="https://discordapp.com/users/Abhishek7739">  
+    <img src="https://img.shields.io/badge/Discord-Connect-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>  
+  </a>  
+</p> isme or koun koun sa icon laga sakta hu
